@@ -12,7 +12,7 @@ This project draws inspiration from other DYI OpenSource projects such as...
 
 ## What is Open Source Home Brewing Automation?
 
-Home brewing is fun, but it's alot of work. My brew sessions are between 4 to 8 hours includeing clean up. A good amount of that time is spend just waiting for your wort to hit the right tempature or just waiting for things to cool down. Woudn't it be nice to automate some of these processess, or how about all of them?
+Home brewing is fun, but it's alot of work. My brew sessions are between 4 to 8 hours includeing clean up. A good amount of that time is spent just waiting for your wort to hit the right tempature or just waiting for things to cool down. Woudn't it be nice to automate some of these processess, or how about all of them?
 
 ## The Ultimate Goal
 
