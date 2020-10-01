@@ -1,4 +1,4 @@
-# Homebrewing Ops
+# Home_Brewing Options 
 
 A directory of homebrewing automation projects
 
@@ -59,4 +59,5 @@ A directory of homebrewing automation projects
 ## Cooling
 
 ## Fermentation
+## Filtering 
 
